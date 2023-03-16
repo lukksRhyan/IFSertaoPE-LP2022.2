@@ -1,0 +1,4 @@
+encontrar a api (completo)
+descobrir como requisitar os dados dela (completo)
+encontrar dados especificos
+fazer calculos usando esses dados
